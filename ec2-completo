@@ -5,7 +5,7 @@
          "Type": "AWS::EC2::Instance",
          "Version": "2009-05-15",
          "Properties": {
-            "ImageId": "ami-205fba49",
+            "ImageId": "ami-9cbe9be5",
             "InstanceType": "t2.micro",
             "Monitoring": "true",
             "DisableApiTermination": "false",
