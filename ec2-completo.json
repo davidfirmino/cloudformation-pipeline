@@ -6,7 +6,7 @@
          "Version": "2009-05-15",
          "Properties": {
             "ImageId": "ami-9cbe9be5",
-            "InstanceType": "t2.micro",
+            "InstanceType": "t1.micro",
             "Monitoring": "true",
             "DisableApiTermination": "false",
             "IamInstanceProfile": {
